@@ -18,6 +18,8 @@ When I asked it to create a phrase and add it to the memory.md file it wanted to
 
 4. How reliable was your assistant at loading the context? Were you able to use reliably use command phrases?
 
+It loaded it for each new task that I tried. Interestingly it added some extra context to the memory file about where to look for different use cases which was fairly sensible.
+
 I keep getting the error "Unexpected API Response: The language model did not provide any assistant messages. This may indicate an issue with the API or the model's output." Possibly because I was using the free model?
 
 
