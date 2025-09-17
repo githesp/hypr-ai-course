@@ -1,5 +1,6 @@
 # Integrate learning with reflection
 
+Module 1: 
 1. What surprised you?
 I was impressed at how well the assistant did at figuring out why tests might be failing and fixing its code appropriately
 2. What frustrated you?
